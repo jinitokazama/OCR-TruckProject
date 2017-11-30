@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Tess4J/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Tess4J/lib/jai-imageio-core-1.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Tess4J/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Tess4J/lib/lept4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Tess4J/dist/tess4j-3.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Tess4J/lib/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Tess4J/lib/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Tess4J/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Tess4J/lib/jul-to-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Applications/poi-3.17/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Applications/poi-3.17/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
