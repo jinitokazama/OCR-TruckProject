@@ -45,7 +45,7 @@ public class TessMain {
 //		//System.out.println(strings);
 //		
 //		for (String s : strings) {                   //Making the table entries and throwing them into an arraylist.
-//			if (s.charAt(0) == 'X') {
+//			if (s.charAt(0) == 'X' || s.charAt(0) == 'W') {
 //				entryList.add(new TableEntry(s.substring(2), true));
 //				
 //			} else {
